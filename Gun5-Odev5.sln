@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun5-Odev5", "Gun5-Odev5\Gun5-Odev5.csproj", "{DDCE0252-D0D5-4507-A0EC-D8DD0877520E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCE0252-D0D5-4507-A0EC-D8DD0877520E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCE0252-D0D5-4507-A0EC-D8DD0877520E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCE0252-D0D5-4507-A0EC-D8DD0877520E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCE0252-D0D5-4507-A0EC-D8DD0877520E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10B722AB-F745-4872-B54B-2DC5CE63DC61}
+	EndGlobalSection
+EndGlobal
